@@ -26,5 +26,3 @@ st.dataframe(filtered_data)
 
 # Add charts/plots as needed
 st.line_chart(filtered_data[['Experience', 'Predicted Salary']])
-
-
